@@ -20,7 +20,7 @@ Indicates where text, images, and other media will appear. For instance, a blog 
 Represents interactive components like buttons, forms, or sliders. These elements help stakeholders visualize how users will interact with the product.
 
 
-## Low-Fidelity vs. High-Fidelity Wireframes
+## Types of Wireframes
 **Low-fidelity wireframes** are basic, grayscale sketches that focus on layout and structure.
 - They often use placeholder shapes and text to represent content. Ideal for early brainstorming and quick feedback loops.
 
